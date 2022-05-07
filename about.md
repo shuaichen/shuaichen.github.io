@@ -1,7 +1,7 @@
 ---
 layout: page
-title: contact
-permalink: /contact/
+title: About
+permalink: /about/
 ---
 
 I am shuaichen Wu. A data scientist. I graduated from Johns Hopkins University with an M.S. degree in Information Security. Later, however, I fell in love with Artificial Intelligence.
