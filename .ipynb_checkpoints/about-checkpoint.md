@@ -24,4 +24,5 @@ Now, a little bit about my background: my undergraduate major is Computer Scienc
 ### Contact me
 
 My email: shuaichenwu@gmail.com
+
 My Phone Number: 239-309-8905

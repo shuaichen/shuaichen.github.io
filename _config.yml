@@ -9,7 +9,7 @@ name: Shuaichen Wu
 description: DataScience
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://github.com/shuaichen/shuaichen.github.io/blob/master/images/jekyll-logo.png
+avatar: https://photos.google.com/search/_tra_/photo/AF1QipMTy7nM1exi6ZjTGailsV5QXGpwCqGbdFQqejkE
 # https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
 #
@@ -19,12 +19,12 @@ avatar: https://github.com/shuaichen/shuaichen.github.io/blob/master/images/jeky
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: shuaichenwu@gmail.com
+  email: shuaichenwuml@gmail.com
   facebook:
   flickr:
-  github: https://github.com/shuaichen
+  github: /shuaichen
   instagram:
-  linkedin: https://www.linkedin.com/in/shuaichenwu/
+  linkedin: /shuaichenwu/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 

@@ -20,8 +20,3 @@ There are two main characteristics that drive me in work and life. First is team
 Second, I am result-oriented. I don’t make intuitive decisions, I always need to write down all of my choices, and go through them systematically. If in some situations I can’t go through each one, then I will make sure to go through all the similar cases and consult the right expertise to narrow down my choices.
 
 Now, a little bit about my background: my undergraduate major is Computer Science with a double major in Internet Communication. Then I received my Master's degree from Johns Hopkins University in Information Security. 
-
-### Contact me
-
-My email: shuaichenwu@gmail.com
-My Phone Number: 239-309-8905
